@@ -1,0 +1,25 @@
+{
+  "jupyter.kernels.filter": [
+    {
+      "path": "c:\\Users\\Rebirth\\anaconda3\\envs\\ee0005\\python.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "c:\\Users\\Rebirth\\Dropbox\\PC\\Documents\\Learning Python\\python.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "c:\\Users\\Rebirth\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "c:\\Users\\Rebirth\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "c:\\Users\\Rebirth\\anaconda3\\envs\\testNumPy\\python.exe",
+      "type": "pythonEnvironment"
+    }
+  ],
+  "python.analysis.typeCheckingMode": "off"
+}
